@@ -35,7 +35,7 @@ spreadsheets exported from the datamining will release separately prior to the T
 In the meantime, you can join the 2b2t.place Discord (https://discord.2b2t.place), which is our extension project
 dedicated to archiving as much of 2b2t as possible before it turns into a boring, censored SMP, or if it shuts down.
 We will also be releasing renders, spreadsheets exported from the world download, more visualizations of data, and the
-Torrent in our Discord server, so stay tuned. I will also edit this post to include the links to the Torrent once it's
+Torrent in our Discord server, so stay tuned. I will also edit this post to include the links and the Torrent once it's
 public.
 
 We also offer free services such as the 2b2t Wayback Machine (Server IP: `wayback.2b2t.place`) and a
