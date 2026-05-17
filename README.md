@@ -3,8 +3,7 @@ It's finally here. Around 24 TB total of 2b2t world data, which includes the fol
 - a 1,024,000² (1m²) area of the Overworld (Dec 25 2025 - Apr 13 2026),
 - a 512,000² (512k²) area of the Overworld (Nov 11 2024 - Dec 12 2024),
 - a 256,000² (256k²) area of the End (Jan 23 2026 - Feb 15 2026),
-- a 100,000² (100k²) area of the Nether (Jun 9 2025 - Jun 14 2025),
-- High-resolution top-down renders of all dimensions with a NewChunks overlay
+- a 100,000² (100k²) area of the Nether (Jun 9 2025 - Jun 14 2025)
 
 This wasn't easy to accomplish in the slightest, and took over a year of constant development and stress testing. With
 severe weaponized autism, the help of several people involved, thousands of dollars spent, and countless hours wasted,
