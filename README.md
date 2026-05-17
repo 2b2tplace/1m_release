@@ -168,10 +168,9 @@ catgirlmatty for the success of it; both of them leading the operation, with exp
 work and sending batches of coordinates to fact checkers. An astounding 2100+ locations were manually checked in-game by
 all contributors, giving a final yield of over 600 dubs of stolen items, which is simply absurd.
 
-Lastly, a huge thank you to [AustinGraphics](https://austin.is-a-good.dev/), for creating the frontend for the 
-https://2b2t.place website. Thanks to his dedication to this project, we can host the full map of this project for 
-everyone to see. I have never personally done any frontend development on my own, and could have never made a website 
-as cool as this.
+Lastly, a huge thank you to [AustinGraphics](https://austin.is-a-good.dev/), for creating the frontend for the https://2b2t.place website. Thanks
+to his dedication to this project, we can host the full map of this project for everyone to see. I have never personally
+done any frontend development on my own, and I could have never made a website as cool as this.
 
 **Additional thanks and shoutouts to the following people, that also helped in one way or another:**
 - antonymph, for providing accounts during the 2024 512k², fact checking many locations during OFC, being supportive all 
