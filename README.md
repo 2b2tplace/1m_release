@@ -44,7 +44,7 @@ issues you may find, along with any suggestions you have, in our Discord server.
 process of being imported into the Wayback Machine server, but should be available relatively soon.
 
 Many more open-source tools are coming to the public very soon, including PlaceProxy, the world download server, 
-the zvcr file format, and much, much more. You can check out our GitHub here at https://github.com/2b2tplace.
+the zvcr file format, and much, much more. You can check out our GitHub at https://github.com/2b2tplace.
 
 You can support the project by beta testing, helping the moderation team, providing data, making cool software, or 
 simply being part of the community. More large-scale world downloads are yet to come, and they will be posted in our 
