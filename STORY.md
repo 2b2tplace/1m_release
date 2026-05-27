@@ -4,7 +4,7 @@ For a project that lasted for almost 2 years already, there has to be a story be
 ## The First Test (512k² Overworld)
 Our first goal was breaking
 [the 256k² world download record](https://www.reddit.com/r/2b2t/comments/t287n9),
-achieved by the Spawn Masons, so a sidelength of 512,000 blocks was chosen, to get a rough idea of the process.
+achieved in 2022, so a sidelength of 512,000 blocks was chosen, to get a rough idea of the process.
 We estimated this to take over 20 days and require a minimum of 24 accounts, downloading a mix of new and old chunks.
 This 512k² was funded by Fuch, and a smaller portion of it by Cody4687 and expunged. Members of the Enclave provided
 their alternate Minecraft accounts for use in this project, and eventually used the data to steal countless stashes all
