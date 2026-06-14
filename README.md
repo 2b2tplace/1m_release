@@ -38,7 +38,7 @@ We will also release the Torrent in our Discord server, so stay tuned. I will al
 once it's public.
 
 We have now released over 8 GB of exported spreadsheets, timelapses and map renders 
-[here](https://buzzheavier.com/uo3zhos4o21u). 
+[here](https://drive.google.com/drive/folders/1fZRfiA02blXVKD2s5aKin0nhJvedtHPd). 
 
 We also offer free services such as the 2b2t Wayback Machine (Server IP: `wayback.2b2t.place`) and a
 [Map Website Viewer](https://2b2t.place) (https://2b2t.place). You can use these services right now to view the data for
